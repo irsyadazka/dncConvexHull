@@ -1,6 +1,6 @@
 # Tugas Kecil 2 Strategi Algoritma
 
-<i>Azka Syauqy Irsyad</i>
+<i>Azka Syauqy Irsyad - 13520107</i>
 
 Repository ini dibuat dalam rangka memenuhi Tugas Kecil 2 Mata Kuliah Strategi Algoritma Tahun 2021/2022
 
